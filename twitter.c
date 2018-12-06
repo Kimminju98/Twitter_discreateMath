@@ -374,10 +374,10 @@ int main(void) {
    make_adjacencylist(arr1, arr2, user_list);
 
    //solution_1
-   //solution_1(arr1, arr2, user_list);
+   solution_1(arr1, arr2, user_list);
 
    //solution_2
-   //solution_2(user_list);
+   solution_2(user_list);
 
    //solution_3
    solution_3();
@@ -386,5 +386,5 @@ int main(void) {
    solution_4();
 
    //solution_5
-   //solution_5(user_list);
+   solution_5(user_list);
 }
